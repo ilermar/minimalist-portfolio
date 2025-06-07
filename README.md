@@ -2,7 +2,15 @@
 
 Simple resume configured using JSON jsonresume.org
 
-Tech Stack:
+Following @midudev example and Bartosz Jarocki original idea
+
+## ToDo:
+
+- Add dark/light theme
+- Add Spanish version with language selector
+
+## Tech Stack:
+
 - Astro
 
 ## 🧞 Commands
