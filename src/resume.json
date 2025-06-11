@@ -209,7 +209,8 @@
         "Jasmine",
         "Karma",
         "Grunt",
-        "Bower"
+        "Bower",
+        "Astro"
       ]
     },
     {

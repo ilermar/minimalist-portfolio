@@ -9,9 +9,12 @@ import Keyboard from '@/components/Keyboard.astro';
 import Projects from '@/components/sections/Projects.astro';
 import Skills from '@/components/sections/Skills.astro';
 
+import { basics } from "@resume";
+
+const { name, label } = basics;
 ---
 
-<Layout title="Ivan Lerma">
+<Layout title={ ` ${name} | ${label}`}>
 	<main>
 		<Hero />
 		<About />
@@ -24,4 +27,15 @@ import Skills from '@/components/sections/Skills.astro';
 </Layout>
 
 <style>
+	main {
+		padding: 4rem;
+		margin: auto;
+		width: 100%;
+	}
+
+	@media (width <= 700px) {
+		main {
+			padding: 2rem;
+		}
+	}
 </style>
