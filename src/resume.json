@@ -6,7 +6,7 @@
     "email": "ivanlermar@gmail.com",
     "phone": "(936) 217-4908",
     "url": "https://ilermar.com",
-    "summary": "A summary of Ivan Lerma…",
+    "summary": "Software Engineer with diverse experience across various industries and organizations, with a strong focus on Front-End development and a solid foundation in Back-End technologies. Skilled in leveraging modern technologies to deliver scalable, high-quality business solutions. Adaptable and quick to integrate into new environments, continuously seeking opportunities to expand my expertise. A strong leader and communicator, passionate about solving complex problems, learning emerging technologies, and mentoring others to drive innovation",
     "location": {
       "address": "NO Address",
       "postalCode": "77378",
@@ -15,6 +15,11 @@
       "region": "Houston Greater Area"
     },
     "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "ilermar",
+        "url": "https://linkedin.com/in/ilermar"
+      },
       {
         "network": "X",
         "username": "ivanlermar",
@@ -27,10 +32,85 @@
       "name": "Schlumberger",
       "position": "Sr Front End Software Engineer",
       "url": "https://slb.com",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
-      "summary": "Description…",
-      "highlights": ["Started the company"]
+      "startDate": "2022-06-01",
+      "endDate": "2025-03-01",
+      "summary": "Developed features for a seismic data processing system, enabling custom workflow creation and configuration of techniques like FWI and Tomography.",
+      "highlights": [
+        "Developed Ul and microservices enhancements for seamless integration of new features.",
+        "Contributed to integrating a Unity (C#) visualization tool for improved data interpretation.",
+        "Worked within an Nx monorepo architecture, using Angular, NgRx, C#, Node.js, GoLang, ADO for task management & CI/CD pipelines and deploying to a Kubernetes infrastructure.",
+        "Implemented a proof-of-concept for integrating GenAI into the system, successfully developing an AI Assistant based on RAG; validated and integrated with an Agentic Workflow by implementing Al agents capable of automating specific tasks, enhancing user operations.",
+        "Built and deployed a web and desktop version of the AI Assistant using Python, Flutter/Flet, LangChain, MilvusDB, and multiple LLMs (GPT-4, Gemini, Mistral).",
+        "Established a CI/CD pipeline and developed an ETL pipeline utilizing Azure Blob Storage and Azure Functions.",
+        "Mentored interns, guiding them in achieving their objectives and enhancing their technical skills."
+      ]
+    },
+    {
+      "name": "Bluware",
+      "position": "Sr Front End Developer",
+      "url": "https://bluware.com/",
+      "startDate": "2016-10-04",
+      "endDate": "2022-06-01",
+      "summary": "Led the team in Front End architecture design and implementation, gathering requirements from product owners, onboarding new team members, and providing mentorship.",
+      "highlights": [
+        "Worked in an Agile environment, applying SAFe methodology, ADO for project management.",
+        "Developed and maintained a seismic data visualization and interpretation system for an oil & gas company, enabling interactive exploration of terabytes of data on touch-screen interfaces.",
+        "Focused on Front End development using a tech stack that included TS with a custom UI framework based on Knockout, RxJS, Redux, D3, Underscore, SASS, and Webpack.",
+        "Contributed to .NET based C# backend completing a full integration of new features following Domain Driven Design principles.",
+        "Architected and designed a new product following a microservices approach, leading the POC implementation using React, Redux, Node.js, Python, DASK, and Flask."
+      ]
+    },
+    {
+      "name": "Globant",
+      "position": "Sr Full Stack Developer",
+      "url": "https://www.globant.com/",
+      "startDate": "2015-11-04",
+      "endDate": "2016-05-01",
+      "summary": "Developed and supported Portal/Dashboard to simply the management of cloud services, utilizing AngularJS, Bootstrap with LESS as CSS preprocessor, C3 chart library, Karma Jasmine, Grunt, Bower, NodeJS and Python.",
+      "highlights": [
+        "Collaborated with a diverse and remote team, improving architectural design and user requirements to produce a better product.",
+        "Actively involved in technology communities around the company, sharing knowledge and discussion of the newest technologies."
+      ]
+    },
+    {
+      "name": "Consultant",
+      "position": "Full Stack Developer",
+      "url": "https://ilermar.com/",
+      "startDate": "2015-04-01",
+      "endDate": "2015-10-01",
+      "summary": "Delivered ad hoc solutions for clients such as Bosch and Schulman.",
+      "highlights": [
+        "Developed a desktop application for monitoring production line statuses, tracking operators, and visualizing scrap levels using WPF, C#, .NET, and SQL Server.",
+        "Created REST APIs and integrated them with existing ERP systems, building custom front ends with AngularJS, Bootstrap, KendoUI, and jQuery."
+      ]
+    },
+    {
+      "name": "SmartBT",
+      "position": "Team Lead",
+      "url": "",
+      "startDate": "2011-05-01",
+      "endDate": "2015-03-01",
+      "summary": "Started as a Software Engineer contributing to the different company products and then became a Team Lead. Led team to develop a UI framework to standardize the company software development process, designed and architected an IDE for WML and WMLS.",
+      "highlights": [
+        "Designed and led implementation of an IDE for WML and WMLS, simplifying and standardizing app development process for POS devices.",
+        "Built mainly with Qt C++, creating a compiler incorporating algorithms of graph theory and multiple pattern designs.",
+        "Developed a JS library based on JSON received from the BE to render the UI. Implemented jQuery widgets, HTML5 and CSS3 for company developments"
+      ]
+    },
+    {
+      "name": "NEURON",
+      "position": "Sr Front End Developer",
+      "url": "https://neuron.com.mx/",
+      "startDate": "2008-05-14",
+      "endDate": "2011-05-01",
+      "summary": "Led the team in Front End architecture design and implementation, gathering requirements from product owners, onboarding new team members, and providing mentorship.",
+      "highlights": [
+        "Worked in an Agile environment, applying SAFe methodology, ADO for project management.",
+        "Developed and maintained a seismic data visualization and interpretation system for an oil & gas company, enabling interactive exploration of terabytes of data on touch-screen interfaces.",
+        "Focused on Front End development using a tech stack that included TS with a custom UI framework based on Knockout, RxJS, Redux, D3, Underscore, SASS, and Webpack.",
+        "Contributed to .NET based C# backend completing a full integration of new features following Domain Driven Design principles.",
+        "Architected and designed a new product following a microservices approach, leading the POC implementation using React, Redux, Node.js, Python, DASK, and Flask."
+      ]
     }
   ],
   "volunteer": [
@@ -46,14 +126,14 @@
   ],
   "education": [
     {
-      "institution": "University",
-      "url": "https://institution.com/",
-      "area": "Software Development",
+      "institution": "UASLP, Universidad Autonoma San Luis Potosi",
+      "url": "https://www.ingenieria.uaslp.mx/",
+      "area": "Computer Engineering",
       "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "score": "4.0",
-      "courses": ["DB1101 - Basic SQL"]
+      "startDate": "2023-01-01",
+      "endDate": "2028-01-01",
+      "score": "3.5",
+      "courses": []
     }
   ],
   "awards": [
@@ -83,19 +163,133 @@
   ],
   "skills": [
     {
-      "name": "Javascript",
-      "level": "Master",
-      "keywords": ["JavaScript"]
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "JavaScript",
+        "Typescript",
+        "Python",
+        "PHP",
+        "C#",
+        "GoLang",
+        "Java",
+        "C/C++"
+      ]
     },
     {
-      "name": "Typescript",
-      "level": "Master",
-      "keywords": ["JavaScript"]
+      "name": "Frameworks / Tools",
+      "level": "",
+      "keywords": [
+        "Angular",
+        "React",
+        "Knockout",
+        "Backbone",
+        "RxJS",
+        "Redux",
+        "NgRx",
+        "Node.js",
+        "Express",
+        "Tailwind CSS",
+        "Bootstrap",
+        "SASS",
+        "Webpack",
+        "Nx",
+        "Django",
+        "Flask",
+        "FastAPI",
+        "Flet",
+        "Flutter",
+        "Unity",
+        "DASK",
+        "LangChain",
+        "OpenAPI",
+        "Jest",
+        "Mocha",
+        "Cypress",
+        "Jasmine",
+        "Karma",
+        "Grunt",
+        "Bower"
+      ]
+    },
+    {
+      "name": "Source Control",
+      "level": "",
+      "keywords": ["Git", "GitHub", "SVN"]
+    },
+    {
+      "name": "Databases / DBMS",
+      "level": "",
+      "keywords": [
+        "SQL Server",
+        "PostgreSQL",
+        "MySQL",
+        "SQLite",
+        "MongoDB",
+        "Redis",
+        "MilvusDB"
+      ]
     },
     {
       "name": "Web Development",
-      "level": "Master",
+      "level": "",
       "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "Front End Development",
+      "level": "",
+      "keywords": ["Angular", "React", "Vue.js", "Knockout", "Redux", "RxJS"]
+    },
+    {
+      "name": "Back End Development",
+      "level": "",
+      "keywords": ["Node.js", "Express", ".NET Core", "Flask", "Django"]
+    },
+    {
+      "name": "Mobile Development",
+      "level": "",
+      "keywords": ["Flutter", "Flet", "React Native"]
+    },
+    {
+      "name": "DevOps",
+      "level": "",
+      "keywords": [
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Azure DevOps",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "name": "Testing",
+      "level": "",
+      "keywords": ["Jest", "Mocha", "Cypress", "Selenium"]
+    },
+    {
+      "name": "Cloud Computing",
+      "level": "",
+      "keywords": ["Azure", "AWS", "Google Cloud"]
+    },
+    {
+      "name": "RESTful APIs",
+      "level": "",
+      "keywords": ["REST", "OpenAPI"]
+    },
+    {
+      "name": "Problem Solving",
+      "level": "",
+      "keywords": ["Analytical Thinking", "Critical Thinking"]
+    },
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": [
+        "Team Leadership",
+        "Project Management",
+        "Mentoring",
+        "Agile Methodologies"
+      ]
     }
   ],
   "languages": [
@@ -110,26 +304,29 @@
   ],
   "interests": [
     {
-      "name": "Wildlife",
-      "keywords": ["Ferrets", "Unicorns"]
-    }
-  ],
-  "references": [
+      "name": "Outdoors",
+      "keywords": ["Hiking", "Mountain biking", "Camping", "Fishing"]
+    },
     {
-      "name": "Jane Doe",
-      "reference": "Reference…"
+      "name": "Self-sustained",
+      "keywords": ["Gardening", "Permaculture", "Aquaponics", "Bee keeping"]
     }
   ],
   "projects": [
     {
-      "name": "Project",
+      "name": "DesarrolladorSLP",
       "isActive": true,
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
-      "description": "Description...",
-      "highlights": ["Won award at AIHacks 2016"],
-      "url": "https://project.com/",
-      "github": "https://github.com/ilermar"
+      "description": "A community of developers in San Luis Potosi, Mexico, focused on sharing knowledge and fostering collaboration.",
+      "highlights": [
+        "Organized meetups, workshops, and hackathons to promote learning and networking among local developers.",
+        "Sponsor coding tournaments and events to encourage participation and skill development.",
+        "Organized sports torunaments to foster community spirit and teamwork.",
+        "Collaborated with more communities to organize a 3-day event with over 1000 attendees, featuring talks, workshops, and networking opportunities."
+      ],
+      "url": "https://www.facebook.com/groups/desarrolladorSLP",
+      "github": "https://x.com/slpdeveloper"
     }
   ]
 }
